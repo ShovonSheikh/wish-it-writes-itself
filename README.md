@@ -1,73 +1,75 @@
-# Welcome to your Lovable project
+# Blaze Mail
 
-## Project info
+Blaze Mail is a private and secure email service that allows users to send and receive emails without the need for a traditional email account. This project aims to provide a user-friendly interface while ensuring privacy and security.
 
-**URL**: https://lovable.dev/projects/b7964b23-88b1-4f48-8429-5b37c6eebf77
+## Features
 
-## How can I edit this code?
+- **Privacy-Focused**: Send and receive emails without revealing your identity.
+- **No Traditional Account Required**: Use the service without needing a conventional email account.
+- **User-Friendly Interface**: Designed for ease of use while maintaining robust security.
 
-There are several ways of editing your application.
+## Technology Stack
 
-**Use Lovable**
+- **TypeScript**: For building scalable and maintainable applications.
+- **JavaScript**: For dynamic content and interactivity.
+- **HTML**: For structuring web content.
+- **CSS**: For styling the application.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b7964b23-88b1-4f48-8429-5b37c6eebf77) and start prompting.
+## Installation
 
-Changes made via Lovable will be committed automatically to this repo.
+To get started with Blaze Mail, follow these steps:
 
-**Use your preferred IDE**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/airdropcodex/blaze-mail.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd blaze-mail
+   ```
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the application:
+   ```bash
+   npm run dev
+   ```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Usage
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Once the application is running, you can access it in your web browser at `http://localhost:5173`. Follow the on-screen instructions to send and receive emails securely.
 
-Follow these steps:
+## Contributing
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+We welcome contributions! If you'd like to contribute to Blaze Mail, please fork the repository and submit a pull request.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Steps to Contribute
 
-# Step 3: Install the necessary dependencies.
-npm i
+1. Fork the repository.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. Open a pull request.
 
-**Edit a file directly in GitHub**
+## License
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Use GitHub Codespaces**
+## Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+For any inquiries or support, please open an issue in the GitHub repository or contact the maintainers.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b7964b23-88b1-4f48-8429-5b37c6eebf77) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Thank you for your interest in Blaze Mail!
